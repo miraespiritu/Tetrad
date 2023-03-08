@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Board
+    uniqueID: 48400131
+    locked: 0
+  - name: CheckerPieces
+    uniqueID: 4129865371
+    locked: 0
