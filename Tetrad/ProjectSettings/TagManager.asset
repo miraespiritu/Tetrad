@@ -44,6 +44,9 @@ TagManager:
   - name: Board
     uniqueID: 48400131
     locked: 0
+  - name: Board Borders
+    uniqueID: 191020499
+    locked: 0
   - name: CheckerPieces
     uniqueID: 4129865371
     locked: 0
